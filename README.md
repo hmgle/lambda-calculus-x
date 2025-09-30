@@ -2,4 +2,4 @@
 
 `λ-calculus` implementations...
 
-- [ ] Haskell
+- [x] Haskell
